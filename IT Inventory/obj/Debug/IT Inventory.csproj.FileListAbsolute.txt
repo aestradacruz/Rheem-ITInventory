@@ -1,0 +1,59 @@
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\bin\Debug\IT Inventory.exe.config
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\bin\Debug\IT Inventory.exe
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\bin\Debug\IT Inventory.pdb
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT Inventory.csprojResolveAssemblyReference.cache
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.Properties.Resources.resources
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT Inventory.csproj.GenerateResource.Cache
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT Inventory.csproj.CoreCompileInputs.cache
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT Inventory.exe
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT Inventory.pdb
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmLogin.resources
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmMain.resources
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmSplashScreen.resources
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmMainInitialCategory.resources
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCInventory.resources
+C:\Users\abel.estrada\source\repos\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCTransactions.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\bin\Debug\IT Inventory.exe.config
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\bin\Debug\IT Inventory.exe
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\bin\Debug\IT Inventory.pdb
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmMainInitialCategory.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmLogin.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmMain.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.Properties.Resources.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmSplashScreen.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCDepartments.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCInventory.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCLocations.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCObjectTypes.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCProjects.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCStatus.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCTransactions.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCUsers.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT Inventory.csproj.GenerateResource.cache
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT Inventory.csproj.CoreCompileInputs.cache
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT Inventory.exe
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT Inventory.pdb
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT Inventory.csprojAssemblyReference.cache
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Projects\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmUsersUpdate.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\bin\Debug\IT Inventory.exe.config
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\bin\Debug\IT Inventory.exe
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\bin\Debug\IT Inventory.pdb
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT Inventory.csprojAssemblyReference.cache
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmMainInitialCategory.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmLogin.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmMain.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmUsersUpdate.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.Properties.Resources.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.FrmSplashScreen.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCDepartments.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCInventory.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCLocations.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCObjectTypes.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCProjects.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCStatus.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCTransactions.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT_Inventory.UCUsers.resources
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT Inventory.csproj.GenerateResource.cache
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT Inventory.csproj.CoreCompileInputs.cache
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT Inventory.exe
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\IT Inventory\IT Inventory\obj\Debug\IT Inventory.pdb
